@@ -11,7 +11,7 @@
 class ___FILEBASENAMEASIDENTIFIER___ {
 
 public:
-  ___FILEBASENAMEASIDENTIFIER___();
+    ___FILEBASENAMEASIDENTIFIER___();
   
 private:
 
